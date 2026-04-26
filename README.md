@@ -1,6 +1,6 @@
 # Akin Ibitoye
 
-  Software Engineer • Computer Science @ University of Kent • Building production AI/ML systems and full-stack
+  Software Engineer • Computer Science @ University of Kent • Building production backend systems and full-stack
   platforms.
 
   🌐 **Portfolio:** [akinibitoye.com](https://www.akinibitoye.com/)
