@@ -53,11 +53,11 @@
 
   ## Tech Stack
 
-  **Languages:** Python · Java · C++ · TypeScript · JavaScript · SQL
-  **Frameworks:** React · Next.js · Node.js · FastAPI · Spring Boot · Prisma
-  **Databases:** PostgreSQL · MongoDB · Redis · H2 · Supabase
-  **Cloud & DevOps:** AWS (Lambda, S3, SQS, CloudWatch) · Docker · Kubernetes · CI/CD · Nginx
-  **AI & LLMs:** OpenAI · Anthropic · Gemini · MCP
+  **Languages:** Python · Java · C++ · TypeScript · JavaScript · SQL \
+  **Frameworks:** React · Next.js · Node.js · FastAPI · Spring Boot · Prisma \
+  **Databases:** PostgreSQL · MongoDB · Redis · H2 · Supabase \
+  **Cloud & DevOps:** AWS (Lambda, S3, SQS, CloudWatch) · Docker · Kubernetes · CI/CD · Nginx \
+  **AI & LLMs:** OpenAI · Anthropic · Gemini · MCP 
 
   ## Links
 
