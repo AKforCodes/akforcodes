@@ -62,10 +62,9 @@
   ## Links
 
   - 🏠 [Portfolio](https://www.akinibitoye.com/)
-  - 💼 [Projects](https://www.akinibitoye.com/projects)
+  - 💼 [Projects](https://www.akinibitoye.com/#projects)
   - ✍️ [Blog](https://www.akinibitoye.com/blog)
-  - 👤 [About](https://www.akinibitoye.com/about)
-  - 📧 [Contact](https://www.akinibitoye.com/contact)
+  - 📧 [Contact](https://www.akinibitoye.com/#contact)
   - 💼 [LinkedIn](https://www.linkedin.com/in/akin-ibitoye-716491207/)
 
   ---
