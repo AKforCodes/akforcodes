@@ -1,72 +1,42 @@
 # Akin Ibitoye
+Software Engineer · CS @ University of Kent · [akinibitoye.com](https://www.akinibitoye.com/)
 
-  Software Engineer • Computer Science @ University of Kent • Building production backend systems and full-stack
-  platforms.
+📫 contact@akinibitoye.com · 📍 Canterbury / London, UK
 
-  🌐 **Portfolio:** [akinibitoye.com](https://www.akinibitoye.com/)
-  📝 **Blog:** [akinibitoye.com/blog](https://www.akinibitoye.com/blog)
-  📫 **Contact:** contact@akinibitoye.com
-  📍 Canterbury / London, UK
+---
 
-  ---
+## About
+Software engineer building production backend systems and AI-powered tooling, currently at **FingerTipsAI**, a transcription SaaS, working across AWS infrastructure, LLM pipelines, and full-stack platforms.
 
-  ## About
+## What I Build
+**AI & LLM Systems** — OpenAI, Anthropic, Gemini, agentic pipelines, MCP servers  
+**Full-Stack Web Apps** — Next.js, React, TypeScript, FastAPI, Spring Boot  
+**Cloud & Infrastructure** — AWS (Lambda, S3, SQS, CloudWatch), Docker, CI/CD  
+**Data & Backend** — PostgreSQL, MongoDB, Redis, Supabase, Prisma
 
-  I'm **Akin Ibitoye**, a software engineer working across Next.js, FastAPI, Spring Boot, and AWS. I currently build a
-  production transcription SaaS at **FingerTipsAI**, and I design AI-powered tooling — from LLM document analysers to
-  scope-creep detection dashboards.
+## Featured Projects
 
-  Read my work and case studies at **[www.akinibitoye.com](https://www.akinibitoye.com/)**.
+### 🕒 [Cron Expression Translator CLI](https://www.akinibitoye.com/blog) — *2,000+ downloads*
+Type schedules in plain English ("every Monday at 9am") and get cron expressions instantly, no syntax memorisation required. Also exposes an MCP server so AI agents can schedule tasks natively.
 
-  ## What I Build
+`TypeScript` `Node.js` `Ink` `npm`
 
-  - **AI & LLM Systems** — OpenAI, Anthropic, Gemini, agentic pipelines, MCP servers
-  - **Full-Stack Web Apps** — Next.js, React, TypeScript, FastAPI, Spring Boot
-  - **Cloud & Infrastructure** — AWS (Lambda, S3, SQS, CloudWatch), Docker, CI/CD
-  - **Data & Backend** — PostgreSQL, MongoDB, Redis, Supabase, Prisma
+### 📚 [LLM Document Discourse Analyser](https://www.akinibitoye.com/blog)
+Reads academic papers and visualises their arguments as interactive graphs, helping researchers map idea connections, spot weak reasoning, and review literature faster.
 
-  ## Featured Projects
+`Java` `Spring Boot` `TypeScript` `React` `D3.js` `PostgreSQL` `Redis` `Docker`
 
-  ### 🕒 [Cron Expression Translator CLI](https://www.akinibitoye.com/blog) — *2,000+ downloads*
-  A command-line tool that lets developers type schedules in plain English — like "every Monday at 9am" — and
-  instantly converts them into cron expressions. Saves the headache of memorising cron syntax and helps AI agents
-  schedule tasks without needing cron expertise.
+### 🎯 [AI Scope Creep Detection Dashboard](https://www.akinibitoye.com/blog)
+Scans incoming feature requests and flags when a project is quietly drifting beyond its original scope, so teams can course-correct before it's too late.
 
-  **Built with:** `TypeScript` `Node.js` `Ink` `npm`
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Supabase`
 
-  ### 📚 [LLM Document Discourse Analyser](https://www.akinibitoye.com/blog)
-  A research tool that reads academic papers and visualises the arguments inside them as interactive graphs. Helps
-  researchers see how ideas connect, spot weak reasoning, and review long literature in a fraction of the time.
+## Tech Stack
+**Languages:** Python · Java · C++ · TypeScript · JavaScript · SQL  
+**Frameworks:** React · Next.js · Node.js · FastAPI · Spring Boot · Prisma  
+**Databases:** PostgreSQL · MongoDB · Redis · Supabase  
+**Cloud & DevOps:** AWS (Lambda, S3, SQS, CloudWatch) · Docker · Kubernetes · CI/CD  
+**AI & LLMs:** OpenAI · Anthropic · Gemini · MCP
 
-  **Built with:** `Java` `Spring Boot` `TypeScript` `React` `D3.js` `PostgreSQL` `Redis` `Docker`
-
-  ### 🎯 [AI Scope Creep Detection Dashboard](https://www.akinibitoye.com/blog)
-  A dashboard for project teams that uses AI to scan incoming feature requests and flag when projects are quietly
-  drifting beyond their original scope. Catches scope creep early so teams can ship on time without surprises.
-
-  **Built with:** `Python` `FastAPI` `Next.js` `PostgreSQL` `Supabase`
-
-  ## Experience Highlights
-
-  **Software Engineer @ FingerTipsAI** — Working on backend systems for a production transcription platform, focused
-  on AWS infrastructure (Lambda, SQS, CloudWatch) and reliable processing pipelines.
-
-  ## Tech Stack
-
-  **Languages:** Python · Java · C++ · TypeScript · JavaScript · SQL \
-  **Frameworks:** React · Next.js · Node.js · FastAPI · Spring Boot · Prisma \
-  **Databases:** PostgreSQL · MongoDB · Redis · H2 · Supabase \
-  **Cloud & DevOps:** AWS (Lambda, S3, SQS, CloudWatch) · Docker · Kubernetes · CI/CD · Nginx \
-  **AI & LLMs:** OpenAI · Anthropic · Gemini · MCP 
-
-  ## Links
-
-  - 🏠 [Portfolio](https://www.akinibitoye.com/)
-  - 💼 [Projects](https://www.akinibitoye.com/#projects)
-  - ✍️ [Blog](https://www.akinibitoye.com/blog)
-  - 📧 [Contact](https://www.akinibitoye.com/#contact)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/akin-ibitoye-716491207/)
-
-  ---
-
-  ⭐️ More at **[akinibitoye.com](https://www.akinibitoye.com/)**
+## Links
+[Portfolio](https://www.akinibitoye.com/) · [Projects](https://www.akinibitoye.com/#projects) · [Blog](https://www.akinibitoye.com/blog) · [LinkedIn](https://www.linkedin.com/in/akin-ibitoye-716491207/) · [Contact](https://www.akinibitoye.com/#contact)
