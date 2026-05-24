@@ -1,42 +1,41 @@
-# Akin Ibitoye
-Software Engineer · CS @ University of Kent · [akinibitoye.com](https://www.akinibitoye.com/)
-
-📫 contact@akinibitoye.com · 📍 Canterbury / London, UK
+# Akin Ibitoye | Software Engineer
+`CS @ University of Kent` | 📍 `Canterbury / London, UK`
+🔗 [akinibitoye.com](https://www.akinibitoye.com/) | 📫 contact@akinibitoye.com
 
 ---
 
-## About
-Software engineer building production backend systems and AI-powered tooling, currently at **FingerTipsAI**, a transcription SaaS, working across AWS infrastructure, LLM pipelines, and full-stack platforms.
+## 🛡️ Current Quest
+Engineering production backend systems and AI tooling at **FingerTipsAI** (Transcription SaaS). Operating across AWS infrastructure, LLM pipelines, and full-stack platforms.
 
-## What I Build
-**AI & LLM Systems** — OpenAI, Anthropic, Gemini, agentic pipelines, MCP servers  
-**Full-Stack Web Apps** — Next.js, React, TypeScript, FastAPI, Spring Boot  
-**Cloud & Infrastructure** — AWS (Lambda, S3, SQS, CloudWatch), Docker, CI/CD  
-**Data & Backend** — PostgreSQL, MongoDB, Redis, Supabase, Prisma
+## 🌳 Skill Tree
+* **🧠 AI & Logic:** OpenAI, Anthropic, Gemini, Agentic Pipelines, MCP Servers
+* **⚡ Back-End:** Python, Java, C++, TypeScript, FastAPI, Spring Boot, Node.js
+* **🖥️ Front-End:** React, Next.js
+* **🗄️ Storage:** PostgreSQL, MongoDB, Redis, Supabase, Prisma
+* **☁️ Cloud & Ops:** AWS (Lambda, S3, SQS, CloudWatch), Docker, Kubernetes, CI/CD
 
-## Featured Projects
+## 🏆 Artifacts & Achievements
 
-### 🕒 [Cron Expression Translator CLI](https://www.akinibitoye.com/blog) — *2,000+ downloads*
-Type schedules in plain English ("every Monday at 9am") and get cron expressions instantly, no syntax memorisation required. Also exposes an MCP server so AI agents can schedule tasks natively.
+### ⛳ [PromptGolf](https://github.com/AKforCodes/PromptGolf)
+> **Stats:** 🏆 Hackathon Winner \
+> **Stack:** `Next.js 15` `Redis` `TypeScript` \
+> **Effect:** A real-time, competitive multiplayer prompt-engineering game where players race against the clock to craft the optimal prompt.
 
-`TypeScript` `Node.js` `Ink` `npm`
+### 🕒 [Cron Expression Translator CLI](https://www.akinibitoye.com/blog) 
+> **Stats:** 2,000+ Downloads 🚀\
+> **Stack:** `TypeScript` `Node.js` `Ink` `npm`\
+> **Effect:** Type schedules in plain English ("every Monday at 9am") to instantly generate cron expressions. Exposes an MCP server for native AI agent scheduling.
 
 ### 📚 [LLM Document Discourse Analyser](https://www.akinibitoye.com/blog)
-Reads academic papers and visualises their arguments as interactive graphs, helping researchers map idea connections, spot weak reasoning, and review literature faster.
-
-`Java` `Spring Boot` `TypeScript` `React` `D3.js` `PostgreSQL` `Redis` `Docker`
+> **Stats:** Academic Research Accelerator ⚡\
+> **Stack:** `Java` `Spring Boot` `TypeScript` `React` `D3.js` `PostgreSQL` `Redis` `Docker`\
+> **Effect:** Reads academic papers and visualizes arguments as interactive graphs to map connections, spot weak reasoning, and accelerate literature reviews.
 
 ### 🎯 [AI Scope Creep Detection Dashboard](https://www.akinibitoye.com/blog)
-Scans incoming feature requests and flags when a project is quietly drifting beyond its original scope, so teams can course-correct before it's too late.
+> **Stats:** Project Guardrail 🛡️\
+> **Stack:** `Python` `FastAPI` `Next.js` `PostgreSQL` `Supabase`\
+> **Effect:** Scans incoming feature requests and flags quiet scope drift, enabling teams to course-correct in real-time.
+---
 
-`Python` `FastAPI` `Next.js` `PostgreSQL` `Supabase`
-
-## Tech Stack
-**Languages:** Python · Java · C++ · TypeScript · JavaScript · SQL  
-**Frameworks:** React · Next.js · Node.js · FastAPI · Spring Boot · Prisma  
-**Databases:** PostgreSQL · MongoDB · Redis · Supabase  
-**Cloud & DevOps:** AWS (Lambda, S3, SQS, CloudWatch) · Docker · Kubernetes · CI/CD  
-**AI & LLMs:** OpenAI · Anthropic · Gemini · MCP
-
-## Links
+## 🗺️ Fast Travel
 [Portfolio](https://www.akinibitoye.com/) · [Projects](https://www.akinibitoye.com/#projects) · [Blog](https://www.akinibitoye.com/blog) · [LinkedIn](https://www.linkedin.com/in/akin-ibitoye-716491207/) · [Contact](https://www.akinibitoye.com/#contact)
