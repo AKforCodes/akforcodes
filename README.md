@@ -13,7 +13,7 @@
 </div>
 
 ## 🛡️ Current Quest
-Engineering production backend systems and AI tooling at **FingerTipsAI** (Transcription SaaS). Operating across AWS infrastructure, LLM pipelines, and full-stack platforms.
+Engineering production backend systems and AI tooling at **FingerTipsAI** (Transcription SaaS). Operating across AWS infrastructure, LLM pipelines, and full stack platforms.
 
 ## 🌳 Skill Tree
 * **🧠 AI & Logic:** `OpenAI` `Anthropic` `Gemini` `Agentic Pipelines` `MCP Servers`
@@ -26,7 +26,7 @@ Engineering production backend systems and AI tooling at **FingerTipsAI** (Trans
 
 ### ⛳ [PromptGolf](https://github.com/AKforCodes/PromptGolf) ![Hackathon Winner](https://img.shields.io/badge/🏆_HACKATHON_WINNER-FFD700?style=for-the-badge&logoColor=black)
 > **Stack:** `Next.js 15` `Redis` `TypeScript` \
-> **Effect:** A real-time, competitive multiplayer prompt-engineering game where players race against the clock to craft the optimal prompt.
+> **Effect:** A real-time, competitive multiplayer prompt engineering game where players race against the clock to craft the optimal prompt.
 
 ### 🕒 [Cron Expression Translator CLI](https://www.akinibitoye.com/blog) ![2k+ Downloads](https://img.shields.io/badge/🚀_2,000+_DOWNLOADS-007EC6?style=for-the-badge&logoColor=white)
 > **Stack:** `TypeScript` `Node.js` `Ink` `npm`\
