@@ -1,5 +1,5 @@
 # Akin Ibitoye | Software Engineer
-`CS @ University of Kent` | 📍 `Canterbury / London, UK`
+`CS @ University of Kent` | 📍 `London, UK`
 🔗 [akinibitoye.com](https://www.akinibitoye.com/) | 📫 contact@akinibitoye.com
 
 ---
@@ -12,8 +12,6 @@
   <br />
 </div>
 
-## 🛡️ Current Quest
-Engineering production backend systems and AI tooling at **FingerTipsAI** (Transcription SaaS). Operating across AWS infrastructure, LLM pipelines, and full stack platforms.
 
 ## 🌳 Skill Tree
 * **🧠 AI & Logic:** `OpenAI` `Anthropic` `Gemini` `Agentic Pipelines` `MCP Servers`
