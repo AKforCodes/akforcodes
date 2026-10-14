@@ -1,4 +1,4 @@
-# Akin Ibitoye | Software Engineer
+# Akin Ibitoye | Incoming AI Builder
 `CS @ University of Kent` | 📍 `London, UK`
 🔗 [akinibitoye.com](https://www.akinibitoye.com/) | 📫 contact@akinibitoye.com
 
