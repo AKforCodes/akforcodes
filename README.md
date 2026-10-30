@@ -1,7 +1,7 @@
 # Akin Ibitoye
 
 **AI Builder @ Salesforce** (Forward Deployed) · London, UK  
-[akinibitoye.com](https://www.akinibitoye.com) · [LinkedIn](https://www.linkedin.com/in/akin-ibitoye-716491207/) · [X (@akincodez)](https://x.com/akincodez) · [npm](https://www.npmjs.com/~akincodes)
+[akinibitoye.com](https://www.akinibitoye.com) · [LinkedIn](https://www.linkedin.com/in/akin-ibitoye-716491207/) · [Youtube (@akincodes)](https://www.youtube.com/@akincodes) · [X (@akincodez)](https://x.com/akincodez) · [npm](https://www.npmjs.com/~akincodes)
 
 I build enterprise AI systems and agentic workflows at Salesforce. Outside of work, I build open-source developer tools (2.5k+ downloads) and compete in hackathons. Previously built audio pipelines and structured LLM extraction at FingerTipsAI.
 
